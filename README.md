@@ -1,6 +1,8 @@
-### Hi there 👋
+### Hello, my name is [Liam Goldfinch](https://www.goldfinch.me/). 👋
 
-![liamgold's github stats](https://github-readme-stats.liamgold.vercel.app/api?username=liamgold&show_icons=true&theme=tokyonight)]
+I currently work as a .NET developer for the digital web agency [NetConstruct](https://www.netconstruct.com/).
+
+![liamgold's github stats](https://github-readme-stats.liamgold.vercel.app/api?username=liamgold&show_icons=true&theme=tokyonight)
 
 <!--
 **liamgold/liamgold** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
