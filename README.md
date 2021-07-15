@@ -1,6 +1,6 @@
 ### Hello, my name is [Liam Goldfinch](https://www.goldfinch.me/). 👋
 
-I currently work as a .NET developer for the digital web agency [NetConstruct](https://www.netconstruct.com/).
+I currently work as a Senior Systems Developer for the digital web agency [NetConstruct](https://www.netconstruct.com/).
 
 <!--
 **liamgold/liamgold** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
