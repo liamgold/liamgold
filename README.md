@@ -1,6 +1,6 @@
 ### Hello, my name is [Liam Goldfinch](https://www.goldfinch.me/). 👋
 
-I currently work as a Senior Systems Developer for the digital web agency [NetConstruct](https://www.netconstruct.com/), and I have been awarded MVP status for [Kentico](https://www.kentico.com/partners/mvp-program) in 2022.
+I currently work as a Senior Systems Developer for the digital web agency [NetConstruct](https://www.netconstruct.com/), and I have been awarded MVP status for [Kentico](https://www.kentico.com/partners/mvp-program) in 2022-2023.
 
 
 <!--
