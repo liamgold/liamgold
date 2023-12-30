@@ -1,7 +1,8 @@
 ### Hello, my name is [Liam Goldfinch](https://www.goldfinch.me/). 👋
 
-I currently work as a Senior Systems Developer for the digital web agency [NetConstruct](https://www.netconstruct.com/), and I have been awarded MVP status for [Kentico](https://www.kentico.com/partners/mvp-program) in 2022-2023.
+I currently work as a Senior Systems Developer for the digital web agency [NetConstruct](https://www.netconstruct.com/).
 
+I have been honoured with the [Kentico MVP](https://www.kentico.com/partners/mvp-program) award consecutively since 2022, acknowledging my passion for their DXP offering and the substantial assistance I have provided to members of the community.
 
 <!--
 **liamgold/liamgold** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
