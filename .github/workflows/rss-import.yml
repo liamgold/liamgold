@@ -18,9 +18,15 @@ jobs:
       
       - name: Replace placeholder in README
         run: |
-          python scripts/replace_placeholder.py styled_rss_content.html TEMPLATE.md
-          
+          python scripts/replace_placeholder.py styled_rss_content.html TEMPLATE.md          
+
+      - name: Check if README has changed
+        id: check_changes
+        run: |
+          git diff --exit-code README.md || echo "::set-output name=changed::true"
+
       - name: Commit changes
+        if: steps.check_changes.outputs.changed == 'true'
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
