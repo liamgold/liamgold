@@ -16,7 +16,7 @@ def generate_html(rss_content):
 
         html_content += f"""
             <li>
-                <a href="{link}">{title}</a>
+                <a href="{link}" target="_blank" rel="noopener noreferrer">{title}</a>
                 <p>{description}</p>
             </li>"""
     html_content += "</ol>"
@@ -34,11 +34,6 @@ def main():
         # Write HTML content to styled_rss_content.html
         with open('styled_rss_content.html', 'w') as f:
             f.write(html_content)
-        
-        print("Content updated successfully.")
-    else:
-        # Content has not changed, no need to commit and push
-        print("No changes detected, skipping commit and push.")
 
 if __name__ == "__main__":
     main()
