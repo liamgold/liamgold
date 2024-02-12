@@ -26,4 +26,4 @@ jobs:
           git config --local user.name "GitHub Action"
           git add README.md
           git commit -m "Update README with latest styled RSS feed"
-          git push "https://${{ secrets.PAT_TOKEN }}@github.com/liamgold/test-rss.git"
+          git push "https://${{ secrets.PAT_TOKEN }}@github.com/liamgold/liamgold.git"
