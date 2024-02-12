@@ -20,19 +20,20 @@ Here are some ideas to get you started:
 -->
 ### Recently Published Posts
 
-Content updated successfully.
-        <a href="https://www.goldfinch.me/blog/keeping-your-xperience-by-kentico-project-up-to-date-using-dependabot">Keeping your Xperience by Kentico project up-to-date using Dependabot</a>
+<ol>
+            <li>
+                <a href="https://www.goldfinch.me/blog/keeping-your-xperience-by-kentico-project-up-to-date-using-dependabot" target="_blank" rel="noopener noreferrer">Keeping your Xperience by Kentico project up-to-date using Dependabot</a>
                 <p>Secure your Xperience by Kentico website with Dependabot - an automated package scanner for timely updates. Learn how I integrated it into Azure DevOps for my blog site.</p>
             </li>
             <li>
-                <a href="https://www.goldfinch.me/blog/setting-up-azure-key-vault-in-kentico-xperience-13">Setting up Azure Key Vault in Kentico Xperience 13</a>
+                <a href="https://www.goldfinch.me/blog/setting-up-azure-key-vault-in-kentico-xperience-13" target="_blank" rel="noopener noreferrer">Setting up Azure Key Vault in Kentico Xperience 13</a>
                 <p>Azure Key Vault is useful for securing sensitive data for both Kentico Xperience 13 presentation and administration websites, but how do you implement it? Let's take a look!</p>
             </li>
             <li>
-                <a href="https://www.goldfinch.me/blog/creating-a-custom-module-in-xperience-by-kentico">Creating a Custom Module in Xperience by Kentico</a>
+                <a href="https://www.goldfinch.me/blog/creating-a-custom-module-in-xperience-by-kentico" target="_blank" rel="noopener noreferrer">Creating a Custom Module in Xperience by Kentico</a>
                 <p>Kentico has always excelled at allowing developers to extend the admin site. However, with Xperience by Kentico, there are some notable differences. Let's walk through a step-by-step process for creating custom modules in Xperience by Kentico.</p>
             </li>
             <li>
-                <a href="https://www.goldfinch.me/blog/revolutionising-digital-experience-a-year-of-xperience-by-kentico-and-what-s-next">Revolutionising Digital Experience: A Year of Xperience by Kentico and What's Next</a>
+                <a href="https://www.goldfinch.me/blog/revolutionising-digital-experience-a-year-of-xperience-by-kentico-and-what-s-next" target="_blank" rel="noopener noreferrer">Revolutionising Digital Experience: A Year of Xperience by Kentico and What's Next</a>
                 <p>It’s been over a year since Kentico announced their new platform and the much-anticipated launch is nearly with us. In this blog we’re taking a look at some of Xperience by Kentico’s newest features.</p>
             </li></ol>
