@@ -1,23 +1,19 @@
-### Hello, my name is [Liam Goldfinch](https://www.goldfinch.me/). 👋
+# Hey, my name is Liam 👋
 
-I currently work as a Principal Systems Developer for the digital web agency [NetConstruct](https://www.netconstruct.com/).
+I currently work as a **Principal Systems Developer** for the digital agency **[idhl](https://www.idhlgroup.com/)**.
 
-I have been honoured with the [Kentico MVP](https://www.kentico.com/partners/mvp-program) award consecutively since 2022, acknowledging my passion for their DXP offering and the substantial assistance I have provided to members of the community.
+I specialise in web development, primarily using **.NET** technologies. My main focus is building dynamic and engaging websites using platforms such as [Kentico](https://www.kentico.com) and [Umbraco](https://umbraco.com/).
 
-<!--
-**liamgold/liamgold** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Oh, and for being passionate about their platform and helping others, Kentico have awarded me with Kentico MVP status. Let's take a look at a nice badge 👀
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img src="images/kentico-mvp.png" alt="Kentico MVP" width="204" height="100">](https://www.kentico.com/partners/mvp-program)
+
+</div>
+
+You can see many blog posts about Kentico over at my [blog website](https://www.goldfinch.me/), or take a look below at a few of the latest posts:
+
 ## Latest Blog Posts
 
 [[ARTICLES]]
