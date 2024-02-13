@@ -16,6 +16,6 @@ Oh, and for being passionate about their platform and helping others, Kentico ha
 
 You can see many blog posts about Kentico over at my [blog website](https://www.goldfinch.me/), or take a look at the most recent posts below:<br/><br/>
 
-<h2 align="center">Latest Blog Posts</h2>
+## Latest Blog Posts
 
 [[ARTICLES]]
