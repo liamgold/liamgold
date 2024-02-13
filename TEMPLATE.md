@@ -12,7 +12,7 @@ Oh, and for being passionate about their platform and helping others, Kentico ha
 
 </div>
 
-You can see many blog posts about Kentico over at my [blog website](https://www.goldfinch.me/), or take a look below at a few of the latest posts:
+You can see many blog posts about Kentico over at my [blog website](https://www.goldfinch.me/), or take a look at the most recent posts below:
 
 ## Latest Blog Posts
 
