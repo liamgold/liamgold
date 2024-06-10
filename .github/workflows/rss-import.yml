@@ -22,7 +22,7 @@ jobs:
 
       - name: Update last updated timestamp
         run: |
-          echo "Last updated: $(date)" >> README.md
+          echo "Last updated: $(date '+%Y-%m-%d')" >> README.md
 
       - name: Commit changes
         run: |
