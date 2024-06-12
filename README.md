@@ -34,4 +34,4 @@ Kentico has always excelled at allowing developers to extend the admin site. How
 It’s been over a year since Kentico announced their new platform and the much-anticipated launch is nearly with us. In this blog we’re taking a look at some of Xperience by Kentico’s newest features.
 
 
-Last updated: 2024-06-11
+Last updated: 2024-06-12
