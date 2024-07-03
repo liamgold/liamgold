@@ -18,6 +18,10 @@ You can see many blog posts about Kentico over at my [blog website](https://www.
 
 ## Latest Blog Posts
 
+**[Understanding Content Security Policy (CSP) and Its Importance](https://www.goldfinch.me/blog/understanding-content-security-policy-and-its-importance)**  
+In today's digital landscape, ensuring the security of web applications is more critical than ever. With cyber threats continuously evolving, developers and administrators must implement robust security measures to protect their applications and user data. One such measure is the Content Security Policy (CSP). In this blog post, we'll dive into what CSP is, why it's essential, and how you can easily manage CSP headers for Xperience by Kentico.
+
+
 **[Keeping your Xperience by Kentico project up-to-date using Dependabot](https://www.goldfinch.me/blog/keeping-your-xperience-by-kentico-project-up-to-date-using-dependabot)**  
 Secure your Xperience by Kentico website with Dependabot - an automated package scanner for timely updates. Learn how I integrated it into Azure DevOps for my blog site.
 
@@ -30,8 +34,4 @@ Azure Key Vault is useful for securing sensitive data for both Kentico Xperience
 Kentico has always excelled at allowing developers to extend the admin site. However, with Xperience by Kentico, there are some notable differences. Let's walk through a step-by-step process for creating custom modules in Xperience by Kentico.
 
 
-**[Revolutionising Digital Experience: A Year of Xperience by Kentico and What's Next](https://www.goldfinch.me/blog/revolutionising-digital-experience-a-year-of-xperience-by-kentico-and-what-s-next)**  
-It’s been over a year since Kentico announced their new platform and the much-anticipated launch is nearly with us. In this blog we’re taking a look at some of Xperience by Kentico’s newest features.
-
-
-Last updated: 2024-07-02
+Last updated: 2024-07-03
