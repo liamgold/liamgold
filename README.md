@@ -34,4 +34,4 @@ Azure Key Vault is useful for securing sensitive data for both Kentico Xperience
 Kentico has always excelled at allowing developers to extend the admin site. However, with Xperience by Kentico, there are some notable differences. Let's walk through a step-by-step process for creating custom modules in Xperience by Kentico.
 
 
-Last updated: 2024-07-17
+Last updated: 2024-07-18
