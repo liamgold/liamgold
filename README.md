@@ -2,7 +2,7 @@
 
 <br/>
 
-I currently work as a **Principal Systems Developer** for the digital agency **[idhl](https://www.idhlgroup.com/)**.
+I currently work as a **Principal Systems Developer** for the digital agency **[IDHL](https://www.idhlagency.com)**.
 
 I specialise in web development, primarily using **.NET** technologies. My main focus is building dynamic and engaging websites using platforms such as [Kentico](https://www.kentico.com) and [Umbraco](https://umbraco.com/).
 
