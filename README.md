@@ -18,6 +18,10 @@ You can see many blog posts about Kentico over at my [blog website](https://www.
 
 ## Latest Blog Posts
 
+**[Integrating Headless Shopify with Xperience by Kentico](https://www.goldfinch.me/blog/integrating-headless-shopify-with-xperience-by-kentico)**  
+Learn how to integrate Shopify with Xperience by Kentico to combine powerful e-commerce features with a versatile Digital Experience Platform. This guide covers setup, synchronisation, and configuration, making it easy to create dynamic online experiences and save on integration costs.
+
+
 **[Understanding Content Security Policy (CSP) and Its Importance](https://www.goldfinch.me/blog/understanding-content-security-policy-and-its-importance)**  
 In today's digital landscape, ensuring the security of web applications is more critical than ever. With cyber threats continuously evolving, developers and administrators must implement robust security measures to protect their applications and user data. One such measure is the Content Security Policy (CSP). In this blog post, we'll dive into what CSP is, why it's essential, and how you can easily manage CSP headers for Xperience by Kentico.
 
@@ -30,8 +34,4 @@ Secure your Xperience by Kentico website with Dependabot - an automated package 
 Azure Key Vault is useful for securing sensitive data for both Kentico Xperience 13 presentation and administration websites, but how do you implement it? Let's take a look!
 
 
-**[Creating a Custom Module in Xperience by Kentico](https://www.goldfinch.me/blog/creating-a-custom-module-in-xperience-by-kentico)**  
-Kentico has always excelled at allowing developers to extend the admin site. However, with Xperience by Kentico, there are some notable differences. Let's walk through a step-by-step process for creating custom modules in Xperience by Kentico.
-
-
-Last updated: 2024-07-26
+Last updated: 2024-07-27
