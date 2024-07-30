@@ -34,4 +34,4 @@ Secure your Xperience by Kentico website with Dependabot - an automated package 
 Azure Key Vault is useful for securing sensitive data for both Kentico Xperience 13 presentation and administration websites, but how do you implement it? Let's take a look!
 
 
-Last updated: 2024-07-29
+Last updated: 2024-07-30
