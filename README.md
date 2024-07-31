@@ -18,6 +18,10 @@ You can see many blog posts about Kentico over at my [blog website](https://www.
 
 ## Latest Blog Posts
 
+**[A Guide to the Xperience by Kentico Certified Developer Certification](https://www.goldfinch.me/blog/a-guide-to-the-xperience-by-kentico-certified-developer-certification)**  
+Discover the newly extended Xperience by Kentico Certified Developer certification, designed to showcase your expertise in the platform. Learn about the certification process, key topics covered, and tips for success from a Kentico MVP. Perfect for developers looking to validate their skills and advance their careers.
+
+
 **[Integrating Headless Shopify with Xperience by Kentico](https://www.goldfinch.me/blog/integrating-headless-shopify-with-xperience-by-kentico)**  
 Learn how to integrate Shopify with Xperience by Kentico to combine powerful e-commerce features with a versatile Digital Experience Platform. This guide covers setup, synchronisation, and configuration, making it easy to create dynamic online experiences and save on integration costs.
 
@@ -30,8 +34,4 @@ In today's digital landscape, ensuring the security of web applications is more 
 Secure your Xperience by Kentico website with Dependabot - an automated package scanner for timely updates. Learn how I integrated it into Azure DevOps for my blog site.
 
 
-**[Setting up Azure Key Vault in Kentico Xperience 13](https://www.goldfinch.me/blog/setting-up-azure-key-vault-in-kentico-xperience-13)**  
-Azure Key Vault is useful for securing sensitive data for both Kentico Xperience 13 presentation and administration websites, but how do you implement it? Let's take a look!
-
-
-Last updated: 2024-07-30
+Last updated: 2024-07-31
