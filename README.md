@@ -34,4 +34,4 @@ In today's digital landscape, ensuring the security of web applications is more 
 Secure your Xperience by Kentico website with Dependabot - an automated package scanner for timely updates. Learn how I integrated it into Azure DevOps for my blog site.
 
 
-Last updated: 2024-08-01
+Last updated: 2024-08-02
