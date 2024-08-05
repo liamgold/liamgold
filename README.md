@@ -18,6 +18,10 @@ You can see many blog posts about Kentico over at my [blog website](https://www.
 
 ## Latest Blog Posts
 
+**[Boost Site Speed Using Image Processing for Xperience by Kentico](https://www.goldfinch.me/blog/boost-site-speed-using-image-processing-for-xperience-by-kentico)**  
+Discover how the XperienceCommunity.ImageProcessing package can significantly enhance your website's performance in Xperience by Kentico. This integration allows for resizing images and converting them to modern formats like WebP, resulting in faster page loads and improved user experience.
+
+
 **[A Guide to the Xperience by Kentico Certified Developer Certification](https://www.goldfinch.me/blog/a-guide-to-the-xperience-by-kentico-certified-developer-certification)**  
 Discover the newly extended Xperience by Kentico Certified Developer certification, designed to showcase your expertise in the platform. Learn about the certification process, key topics covered, and tips for success from a Kentico MVP. Perfect for developers looking to validate their skills and advance their careers.
 
@@ -30,8 +34,4 @@ Learn how to integrate Shopify with Xperience by Kentico to combine powerful e-c
 In today's digital landscape, ensuring the security of web applications is more critical than ever. With cyber threats continuously evolving, developers and administrators must implement robust security measures to protect their applications and user data. One such measure is the Content Security Policy (CSP). In this blog post, we'll dive into what CSP is, why it's essential, and how you can easily manage CSP headers for Xperience by Kentico.
 
 
-**[Keeping your Xperience by Kentico project up-to-date using Dependabot](https://www.goldfinch.me/blog/keeping-your-xperience-by-kentico-project-up-to-date-using-dependabot)**  
-Secure your Xperience by Kentico website with Dependabot - an automated package scanner for timely updates. Learn how I integrated it into Azure DevOps for my blog site.
-
-
-Last updated: 2024-08-04
+Last updated: 2024-08-05
