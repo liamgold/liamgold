@@ -34,4 +34,4 @@ Learn how to integrate Shopify with Xperience by Kentico to combine powerful e-c
 In today's digital landscape, ensuring the security of web applications is more critical than ever. With cyber threats continuously evolving, developers and administrators must implement robust security measures to protect their applications and user data. One such measure is the Content Security Policy (CSP). In this blog post, we'll dive into what CSP is, why it's essential, and how you can easily manage CSP headers for Xperience by Kentico.
 
 
-Last updated: 2024-08-10
+Last updated: 2024-08-11
