@@ -18,6 +18,10 @@ You can see many blog posts about Kentico over at my [blog website](https://www.
 
 ## Latest Blog Posts
 
+**[Enable Quick Page Editing from Your Xperience by Kentico Website Channels](https://www.goldfinch.me/blog/enable-quick-page-editing-from-your-xperience-by-kentico-website-channels)**  
+Simplify content management with this new package for Xperience by Kentico. It adds an "Edit Page" button to your website channels, allowing editors to quickly access the Kentico administration interface and make updates effortlessly. Enhance your workflow and keep your content fresh with ease.
+
+
 **[Boost Site Speed Using Image Processing for Xperience by Kentico](https://www.goldfinch.me/blog/boost-site-speed-using-image-processing-for-xperience-by-kentico)**  
 Discover how the XperienceCommunity.ImageProcessing package can significantly enhance your website's performance in Xperience by Kentico. This integration allows for resizing images and converting them to modern formats like WebP, resulting in faster page loads and improved user experience.
 
@@ -30,8 +34,4 @@ Discover the newly extended Xperience by Kentico Certified Developer certificati
 Learn how to integrate Shopify with Xperience by Kentico to combine powerful e-commerce features with a versatile Digital Experience Platform. This guide covers setup, synchronisation, and configuration, making it easy to create dynamic online experiences and save on integration costs.
 
 
-**[Understanding Content Security Policy (CSP) and Its Importance](https://www.goldfinch.me/blog/understanding-content-security-policy-and-its-importance)**  
-In today's digital landscape, ensuring the security of web applications is more critical than ever. With cyber threats continuously evolving, developers and administrators must implement robust security measures to protect their applications and user data. One such measure is the Content Security Policy (CSP). In this blog post, we'll dive into what CSP is, why it's essential, and how you can easily manage CSP headers for Xperience by Kentico.
-
-
-Last updated: 2024-08-22
+Last updated: 2024-08-23
