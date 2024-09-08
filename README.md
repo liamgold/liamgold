@@ -34,4 +34,4 @@ Discover the newly extended Xperience by Kentico Certified Developer certificati
 Learn how to integrate Shopify with Xperience by Kentico to combine powerful e-commerce features with a versatile Digital Experience Platform. This guide covers setup, synchronisation, and configuration, making it easy to create dynamic online experiences and save on integration costs.
 
 
-Last updated: 2024-09-07
+Last updated: 2024-09-08
