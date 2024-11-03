@@ -34,4 +34,4 @@ Discover how the XperienceCommunity.ImageProcessing package can significantly en
 Discover the newly extended Xperience by Kentico Certified Developer certification, designed to showcase your expertise in the platform. Learn about the certification process, key topics covered, and tips for success from a Kentico MVP. Perfect for developers looking to validate their skills and advance their careers.
 
 
-Last updated: 2024-11-02
+Last updated: 2024-11-03
