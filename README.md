@@ -18,6 +18,10 @@ You can see many blog posts about Kentico over at my [blog website](https://www.
 
 ## Latest Blog Posts
 
+**[Umbraco Tips for Newcomers: Insights from an Outsider](https://www.goldfinch.me/blog/umbraco-tips-for-newcomers-insights-from-an-outsider)**  
+I have published my first Umbraco related article in the calendar, 24 Days in Umbraco. It provides insights for newcomers, some tips on how to get started. Read more about the article.
+
+
 **[How to Easily Extend Xperience by Kentico UI Pages with Page Extenders](https://www.goldfinch.me/blog/how-to-easily-extend-xperience-by-kentico-ui-pages-with-page-extenders)**  
 UI page extenders in Xperience by Kentico allow you to customise existing UI pages without modifying their source code. In this post, we’ll walk through a simple example of reordering columns in a listing layout to better suit your needs.
 
@@ -30,8 +34,4 @@ Simplify content management with this new package for Xperience by Kentico. It a
 Discover how the XperienceCommunity.ImageProcessing package can significantly enhance your website's performance in Xperience by Kentico. This integration allows for resizing images and converting them to modern formats like WebP, resulting in faster page loads and improved user experience.
 
 
-**[A Guide to the Xperience by Kentico Certified Developer Certification](https://www.goldfinch.me/blog/a-guide-to-the-xperience-by-kentico-certified-developer-certification)**  
-Discover the newly extended Xperience by Kentico Certified Developer certification, designed to showcase your expertise in the platform. Learn about the certification process, key topics covered, and tips for success from a Kentico MVP. Perfect for developers looking to validate their skills and advance their careers.
-
-
-Last updated: 2024-12-19
+Last updated: 2024-12-20
