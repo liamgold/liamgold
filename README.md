@@ -34,4 +34,4 @@ Simplify content management with this new package for Xperience by Kentico. It a
 Discover how the XperienceCommunity.ImageProcessing package can significantly enhance your website's performance in Xperience by Kentico. This integration allows for resizing images and converting them to modern formats like WebP, resulting in faster page loads and improved user experience.
 
 
-Last updated: 2025-02-14
+Last updated: 2025-02-15
