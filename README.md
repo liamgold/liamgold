@@ -18,6 +18,10 @@ You can see many blog posts about Kentico over at my [blog website](https://www.
 
 ## Latest Blog Posts
 
+**[How Data Protection APIs (DPAPI) Enhance Security in Your CMS](https://www.goldfinch.me/blog/how-data-protection-apis-enhance-security-in-your-cms)**  
+Securing sensitive data is essential in modern CMS platforms. ASP.NET Core provides the Data Protection API (DPAPI) to help simplify encryption, decryption, and key management. DPAPI is used in many features, including ASP.NET authentication, so even if you're not using it directly, it is important to understand the basics.
+
+
 **[Umbraco Tips for Newcomers: Insights from an Outsider](https://www.goldfinch.me/blog/umbraco-tips-for-newcomers-insights-from-an-outsider)**  
 I have published my first Umbraco related article in the calendar, 24 Days in Umbraco. It provides insights for newcomers, some tips on how to get started. Read more about the article.
 
@@ -30,8 +34,4 @@ UI page extenders in Xperience by Kentico allow you to customise existing UI pag
 Simplify content management with this new package for Xperience by Kentico. It adds an "Edit Page" button to your website channels, allowing editors to quickly access the Kentico administration interface and make updates effortlessly. Enhance your workflow and keep your content fresh with ease.
 
 
-**[Boost Site Speed Using Image Processing for Xperience by Kentico](https://www.goldfinch.me/blog/boost-site-speed-using-image-processing-for-xperience-by-kentico)**  
-Discover how the XperienceCommunity.ImageProcessing package can significantly enhance your website's performance in Xperience by Kentico. This integration allows for resizing images and converting them to modern formats like WebP, resulting in faster page loads and improved user experience.
-
-
-Last updated: 2025-03-17
+Last updated: 2025-03-18
