@@ -34,4 +34,4 @@ UI page extenders in Xperience by Kentico allow you to customise existing UI pag
 Simplify content management with this new package for Xperience by Kentico. It adds an "Edit Page" button to your website channels, allowing editors to quickly access the Kentico administration interface and make updates effortlessly. Enhance your workflow and keep your content fresh with ease.
 
 
-Last updated: 2025-04-14
+Last updated: 2025-04-15
