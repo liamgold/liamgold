@@ -18,6 +18,10 @@ You can see many blog posts about Kentico over at my [blog website](https://www.
 
 ## Latest Blog Posts
 
+**[The Kentico SaaS Migration: A Step-by-Step Guide](https://www.goldfinch.me/blog/the-kentico-saas-migration-a-step-by-step-guide)**  
+A practical guide to migrating an Xperience by Kentico site to Kentico SaaS - covering prep, code updates, and your first deployment.
+
+
 **[How Data Protection APIs (DPAPI) Enhance Security in Your CMS](https://www.goldfinch.me/blog/how-data-protection-apis-enhance-security-in-your-cms)**  
 Securing sensitive data is essential in modern CMS platforms. ASP.NET Core provides the Data Protection API (DPAPI) to help simplify encryption, decryption, and key management. DPAPI is used in many features, including ASP.NET authentication, so even if you're not using it directly, it is important to understand the basics.
 
@@ -30,8 +34,4 @@ I have published my first Umbraco related article in the calendar, 24 Days in Um
 UI page extenders in Xperience by Kentico allow you to customise existing UI pages without modifying their source code. In this post, we’ll walk through a simple example of reordering columns in a listing layout to better suit your needs.
 
 
-**[Enable Quick Page Editing from Your Xperience by Kentico Website Channels](https://www.goldfinch.me/blog/enable-quick-page-editing-from-your-xperience-by-kentico-website-channels)**  
-Simplify content management with this new package for Xperience by Kentico. It adds an "Edit Page" button to your website channels, allowing editors to quickly access the Kentico administration interface and make updates effortlessly. Enhance your workflow and keep your content fresh with ease.
-
-
-Last updated: 2025-04-23
+Last updated: 2025-04-24
