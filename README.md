@@ -34,4 +34,4 @@ I have published my first Umbraco related article in the calendar, 24 Days in Um
 UI page extenders in Xperience by Kentico allow you to customise existing UI pages without modifying their source code. In this post, we’ll walk through a simple example of reordering columns in a listing layout to better suit your needs.
 
 
-Last updated: 2025-04-26
+Last updated: 2025-04-27
