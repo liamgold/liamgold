@@ -18,6 +18,10 @@ You can see many blog posts about Kentico over at my [blog website](https://www.
 
 ## Latest Blog Posts
 
+**[The Kentico SaaS Migration: Automated Deployments](https://www.goldfinch.me/blog/the-kentico-saas-migration-automated-deployments)**  
+Learn how I adapted my existing Azure DevOps CI/CD pipelines to automate deployments to Kentico SaaS. This guide covers building, testing, packaging, and deploying to SaaS environments.
+
+
 **[The Kentico SaaS Migration: A Step-by-Step Guide](https://www.goldfinch.me/blog/the-kentico-saas-migration-a-step-by-step-guide)**  
 A practical guide to migrating an Xperience by Kentico site to Kentico SaaS - covering prep, code updates, and your first deployment.
 
@@ -30,8 +34,4 @@ Securing sensitive data is essential in modern CMS platforms. ASP.NET Core provi
 I have published my first Umbraco related article in the calendar, 24 Days in Umbraco. It provides insights for newcomers, some tips on how to get started. Read more about the article.
 
 
-**[How to Easily Extend Xperience by Kentico UI Pages with Page Extenders](https://www.goldfinch.me/blog/how-to-easily-extend-xperience-by-kentico-ui-pages-with-page-extenders)**  
-UI page extenders in Xperience by Kentico allow you to customise existing UI pages without modifying their source code. In this post, we’ll walk through a simple example of reordering columns in a listing layout to better suit your needs.
-
-
-Last updated: 2025-04-28
+Last updated: 2025-04-29
