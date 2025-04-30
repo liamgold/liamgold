@@ -18,6 +18,10 @@ You can see many blog posts about Kentico over at my [blog website](https://www.
 
 ## Latest Blog Posts
 
+**[The Kentico SaaS Migration: Lessons Learned and Troubleshooting Tips](https://www.goldfinch.me/blog/the-kentico-saas-migration-lessons-learned-and-troubleshooting-tips)**  
+A few surprises, some near misses, and plenty of lessons learned while getting my Kentico SaaS setup running smoothly.
+
+
 **[The Kentico SaaS Migration: Automated Deployments](https://www.goldfinch.me/blog/the-kentico-saas-migration-automated-deployments)**  
 Learn how I adapted my existing Azure DevOps CI/CD pipelines to automate deployments to Kentico SaaS. This guide covers building, testing, packaging, and deploying to SaaS environments.
 
@@ -30,8 +34,4 @@ A practical guide to migrating an Xperience by Kentico site to Kentico SaaS - co
 Securing sensitive data is essential in modern CMS platforms. ASP.NET Core provides the Data Protection API (DPAPI) to help simplify encryption, decryption, and key management. DPAPI is used in many features, including ASP.NET authentication, so even if you're not using it directly, it is important to understand the basics.
 
 
-**[Umbraco Tips for Newcomers: Insights from an Outsider](https://www.goldfinch.me/blog/umbraco-tips-for-newcomers-insights-from-an-outsider)**  
-I have published my first Umbraco related article in the calendar, 24 Days in Umbraco. It provides insights for newcomers, some tips on how to get started. Read more about the article.
-
-
-Last updated: 2025-04-29
+Last updated: 2025-04-30
