@@ -34,4 +34,4 @@ A practical guide to migrating an Xperience by Kentico site to Kentico SaaS - co
 Securing sensitive data is essential in modern CMS platforms. ASP.NET Core provides the Data Protection API (DPAPI) to help simplify encryption, decryption, and key management. DPAPI is used in many features, including ASP.NET authentication, so even if you're not using it directly, it is important to understand the basics.
 
 
-Last updated: 2025-05-16
+Last updated: 2025-05-17
