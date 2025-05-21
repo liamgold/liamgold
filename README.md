@@ -18,6 +18,10 @@ You can see many blog posts about Kentico over at my [blog website](https://www.
 
 ## Latest Blog Posts
 
+**[Bringing Sustainability Insights to Xperience by Kentico](https://www.goldfinch.me/blog/bringing-sustainability-insights-to-xperience-by-kentico)**  
+Open source meets sustainability: the XperienceCommunity.Sustainability package brings green tooling to Xperience by Kentico - inspired by Umbraco, and already giving back to it.
+
+
 **[The Kentico SaaS Migration: Lessons Learned and Troubleshooting Tips](https://www.goldfinch.me/blog/the-kentico-saas-migration-lessons-learned-and-troubleshooting-tips)**  
 A few surprises, some near misses, and plenty of lessons learned while getting my Kentico SaaS setup running smoothly.
 
@@ -30,8 +34,4 @@ Learn how I adapted my existing Azure DevOps CI/CD pipelines to automate deploym
 A practical guide to migrating an Xperience by Kentico site to Kentico SaaS - covering prep, code updates, and your first deployment.
 
 
-**[How Data Protection APIs (DPAPI) Enhance Security in Your CMS](https://www.goldfinch.me/blog/how-data-protection-apis-enhance-security-in-your-cms)**  
-Securing sensitive data is essential in modern CMS platforms. ASP.NET Core provides the Data Protection API (DPAPI) to help simplify encryption, decryption, and key management. DPAPI is used in many features, including ASP.NET authentication, so even if you're not using it directly, it is important to understand the basics.
-
-
-Last updated: 2025-05-20
+Last updated: 2025-05-21
