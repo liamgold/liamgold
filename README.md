@@ -34,4 +34,4 @@ Learn how I adapted my existing Azure DevOps CI/CD pipelines to automate deploym
 A practical guide to migrating an Xperience by Kentico site to Kentico SaaS - covering prep, code updates, and your first deployment.
 
 
-Last updated: 2025-07-03
+Last updated: 2025-07-04
