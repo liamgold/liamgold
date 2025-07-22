@@ -18,6 +18,10 @@ You can see many blog posts about Kentico over at my [blog website](https://www.
 
 ## Latest Blog Posts
 
+**[Content and Commerce Without the Headaches](https://www.goldfinch.me/blog/content-and-commerce-without-the-headaches)**  
+Discover how SaaS DXPs are helping marketers streamline content and commerce for faster, smoother customer experiences.
+
+
 **[Bringing Sustainability Insights to Xperience by Kentico](https://www.goldfinch.me/blog/bringing-sustainability-insights-to-xperience-by-kentico)**  
 Open source meets sustainability: the XperienceCommunity.Sustainability package brings green tooling to Xperience by Kentico - inspired by Umbraco, and already giving back to it.
 
@@ -30,8 +34,4 @@ A few surprises, some near misses, and plenty of lessons learned while getting m
 Learn how I adapted my existing Azure DevOps CI/CD pipelines to automate deployments to Kentico SaaS. This guide covers building, testing, packaging, and deploying to SaaS environments.
 
 
-**[The Kentico SaaS Migration: A Step-by-Step Guide](https://www.goldfinch.me/blog/the-kentico-saas-migration-a-step-by-step-guide)**  
-A practical guide to migrating an Xperience by Kentico site to Kentico SaaS - covering prep, code updates, and your first deployment.
-
-
-Last updated: 2025-07-21
+Last updated: 2025-07-22
