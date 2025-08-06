@@ -34,4 +34,4 @@ A few surprises, some near misses, and plenty of lessons learned while getting m
 Learn how I adapted my existing Azure DevOps CI/CD pipelines to automate deployments to Kentico SaaS. This guide covers building, testing, packaging, and deploying to SaaS environments.
 
 
-Last updated: 2025-08-05
+Last updated: 2025-08-06
