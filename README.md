@@ -18,6 +18,10 @@ You can see many blog posts about Kentico over at my [blog website](https://www.
 
 ## Latest Blog Posts
 
+**[Goldfinch.me is Now Open Source](https://www.goldfinch.me/blog/goldfinch-me-is-now-open-source)**  
+Learn about why I’ve made the source code for my personal blog site publicly available on GitHub.
+
+
 **[Content and Commerce Without the Headaches](https://www.goldfinch.me/blog/content-and-commerce-without-the-headaches)**  
 Discover how SaaS DXPs are helping marketers streamline content and commerce for faster, smoother customer experiences.
 
@@ -30,8 +34,4 @@ Open source meets sustainability: the XperienceCommunity.Sustainability package 
 A few surprises, some near misses, and plenty of lessons learned while getting my Kentico SaaS setup running smoothly.
 
 
-**[The Kentico SaaS Migration: Automated Deployments](https://www.goldfinch.me/blog/the-kentico-saas-migration-automated-deployments)**  
-Learn how I adapted my existing Azure DevOps CI/CD pipelines to automate deployments to Kentico SaaS. This guide covers building, testing, packaging, and deploying to SaaS environments.
-
-
-Last updated: 2025-08-10
+Last updated: 2025-08-11
