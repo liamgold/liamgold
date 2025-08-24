@@ -34,4 +34,4 @@ Open source meets sustainability: the XperienceCommunity.Sustainability package 
 A few surprises, some near misses, and plenty of lessons learned while getting my Kentico SaaS setup running smoothly.
 
 
-Last updated: 2025-08-23
+Last updated: 2025-08-24
