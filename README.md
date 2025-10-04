@@ -18,6 +18,10 @@ You can see many blog posts about Kentico over at my [blog website](https://www.
 
 ## Latest Blog Posts
 
+**[Adding Smoke Testing to My Blog with Claude Code](https://www.goldfinch.me/blog/adding-smoke-testing-to-my-blog-with-claude-code)**  
+Using AI to automate smoke testing and boost confidence in deployments for my Xperience by Kentico blog.
+
+
 **[Goldfinch.me is Now Open Source](https://www.goldfinch.me/blog/goldfinch-me-is-now-open-source)**  
 Learn about why I’ve made the source code for my personal blog site publicly available on GitHub.
 
@@ -30,8 +34,4 @@ Discover how SaaS DXPs are helping marketers streamline content and commerce for
 Open source meets sustainability: the XperienceCommunity.Sustainability package brings green tooling to Xperience by Kentico - inspired by Umbraco, and already giving back to it.
 
 
-**[The Kentico SaaS Migration: Lessons Learned and Troubleshooting Tips](https://www.goldfinch.me/blog/the-kentico-saas-migration-lessons-learned-and-troubleshooting-tips)**  
-A few surprises, some near misses, and plenty of lessons learned while getting my Kentico SaaS setup running smoothly.
-
-
-Last updated: 2025-10-03
+Last updated: 2025-10-04
