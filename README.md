@@ -34,4 +34,4 @@ Discover how SaaS DXPs are helping marketers streamline content and commerce for
 Open source meets sustainability: the XperienceCommunity.Sustainability package brings green tooling to Xperience by Kentico - inspired by Umbraco, and already giving back to it.
 
 
-Last updated: 2025-10-05
+Last updated: 2025-10-06
