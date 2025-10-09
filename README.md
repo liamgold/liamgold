@@ -18,6 +18,10 @@ You can see many blog posts about Kentico over at my [blog website](https://www.
 
 ## Latest Blog Posts
 
+**[Taking Stripe Payments in Umbraco Commerce](https://www.goldfinch.me/blog/taking-stripe-payments-in-umbraco-commerce)**  
+Step-by-step guide to adding Stripe to the Umbraco Commerce Demo Store (Umbraco 16, .NET 9) with screenshots, commands, and notes on webhooks and going live.
+
+
 **[Adding Smoke Testing to My Blog with Claude Code](https://www.goldfinch.me/blog/adding-smoke-testing-to-my-blog-with-claude-code)**  
 Using AI to automate smoke testing and boost confidence in deployments for my Xperience by Kentico blog.
 
@@ -30,8 +34,4 @@ Learn about why I’ve made the source code for my personal blog site publicly a
 Discover how SaaS DXPs are helping marketers streamline content and commerce for faster, smoother customer experiences.
 
 
-**[Bringing Sustainability Insights to Xperience by Kentico](https://www.goldfinch.me/blog/bringing-sustainability-insights-to-xperience-by-kentico)**  
-Open source meets sustainability: the XperienceCommunity.Sustainability package brings green tooling to Xperience by Kentico - inspired by Umbraco, and already giving back to it.
-
-
-Last updated: 2025-10-08
+Last updated: 2025-10-09
