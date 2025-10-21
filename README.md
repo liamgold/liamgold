@@ -18,6 +18,14 @@ You can see many blog posts about Kentico over at my [blog website](https://www.
 
 ## Latest Blog Posts
 
+**[From Spec to Stripe: Building a Payment Provider for Xperience by Kentico](https://www.goldfinch.me/blog/from-spec-to-stripe-building-a-payment-provider-for-xperience-by-kentico)**  
+How a Markdown spec and AI tools like ChatGPT and Claude Code helped me build a Stripe payment provider for Xperience by Kentico - faster, cleaner, and spec-driven from the start.
+
+
+**[How I Used Claude Code to Redesign My Kentico Sustainability Module](https://www.goldfinch.me/blog/how-i-used-claude-code-to-redesign-my-kentico-sustainability-module)**  
+Discover how I used Claude Code, Anthropic’s AI coding assistant, to refactor and redesign the UI of my Kentico Sustainability module - replacing third-party components with native ones and creating a cleaner, more integrated experience.
+
+
 **[Taking Stripe Payments in Umbraco Commerce](https://www.goldfinch.me/blog/taking-stripe-payments-in-umbraco-commerce)**  
 Step-by-step guide to adding Stripe to the Umbraco Commerce Demo Store (Umbraco 16, .NET 9) with screenshots, commands, and notes on webhooks and going live.
 
@@ -26,12 +34,4 @@ Step-by-step guide to adding Stripe to the Umbraco Commerce Demo Store (Umbraco 
 Using AI to automate smoke testing and boost confidence in deployments for my Xperience by Kentico blog.
 
 
-**[Goldfinch.me is Now Open Source](https://www.goldfinch.me/blog/goldfinch-me-is-now-open-source)**  
-Learn about why I’ve made the source code for my personal blog site publicly available on GitHub.
-
-
-**[Content and Commerce Without the Headaches](https://www.goldfinch.me/blog/content-and-commerce-without-the-headaches)**  
-Discover how SaaS DXPs are helping marketers streamline content and commerce for faster, smoother customer experiences.
-
-
-Last updated: 2025-10-20
+Last updated: 2025-10-21
