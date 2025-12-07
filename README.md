@@ -2,7 +2,7 @@
 
 <br/>
 
-I currently work as a **Principal Systems Developer** for the digital agency **[IDHL](https://www.idhlagency.com)**.
+I currently work as a **Principal Systems Engineer** for the digital agency **[IDHL](https://www.idhlagency.com)**.
 
 I specialise in web development, primarily using **.NET** technologies. My main focus is building dynamic and engaging websites using platforms such as [Kentico](https://www.kentico.com) and [Umbraco](https://umbraco.com/).
 
@@ -34,4 +34,4 @@ Step-by-step guide to adding Stripe to the Umbraco Commerce Demo Store (Umbraco 
 Using AI to automate smoke testing and boost confidence in deployments for my Xperience by Kentico blog.
 
 
-Last updated: 2025-12-06
+Last updated: 2025-12-07
