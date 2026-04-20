@@ -18,6 +18,10 @@ You can see many blog posts about Kentico over at my [blog website](https://www.
 
 ## Latest Blog Posts
 
+**[From design system to deployed code: a weekend with Claude Design](https://www.goldfinch.me/blog/from-design-system-to-deployed-code-a-weekend-with-claude-design)**  
+A practical experiment in using Claude Design to infer a design system from an existing site, explore a redesign within real constraints, and move straight into implementation without the usual design handoff.
+
+
 **[From Spec to Stripe: Building a Payment Provider for Xperience by Kentico](https://www.goldfinch.me/blog/from-spec-to-stripe-building-a-payment-provider-for-xperience-by-kentico)**  
 How a Markdown spec and AI tools like ChatGPT and Claude Code helped me build a Stripe payment provider for Xperience by Kentico - faster, cleaner, and spec-driven from the start.
 
@@ -34,4 +38,4 @@ Step-by-step guide to adding Stripe to the Umbraco Commerce Demo Store (Umbraco 
 Using AI to automate smoke testing and boost confidence in deployments for my Xperience by Kentico blog.
 
 
-Last updated: 2026-04-19
+Last updated: 2026-04-20
