@@ -38,4 +38,4 @@ Step-by-step guide to adding Stripe to the Umbraco Commerce Demo Store (Umbraco 
 Using AI to automate smoke testing and boost confidence in deployments for my Xperience by Kentico blog.
 
 
-Last updated: 2026-05-15
+Last updated: 2026-05-16
