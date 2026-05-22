@@ -18,6 +18,10 @@ You can see many blog posts about Kentico over at my [blog website](https://www.
 
 ## Latest Blog Posts
 
+**[How AI Changed the Shape of Delivery on a Real Kentico Project](https://www.goldfinch.me/blog/how-ai-changed-the-shape-of-delivery-on-a-real-kentico-project)**  
+A real‑world case study exploring how AI‑assisted workflows changed decision‑making, reduced uncertainty, and accelerated delivery during an Xperience by Kentico rebuild.
+
+
 **[From design system to deployed code: a weekend with Claude Design](https://www.goldfinch.me/blog/from-design-system-to-deployed-code-a-weekend-with-claude-design)**  
 A practical experiment in using Claude Design to infer a design system from an existing site, explore a redesign within real constraints, and move straight into implementation without the usual design handoff.
 
@@ -34,8 +38,4 @@ Discover how I used Claude Code, Anthropic’s AI coding assistant, to refactor 
 Step-by-step guide to adding Stripe to the Umbraco Commerce Demo Store (Umbraco 16, .NET 9) with screenshots, commands, and notes on webhooks and going live.
 
 
-**[Adding Smoke Testing to My Blog with Claude Code](https://www.goldfinch.me/blog/adding-smoke-testing-to-my-blog-with-claude-code)**  
-Using AI to automate smoke testing and boost confidence in deployments for my Xperience by Kentico blog.
-
-
-Last updated: 2026-05-21
+Last updated: 2026-05-22
