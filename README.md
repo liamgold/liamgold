@@ -38,4 +38,4 @@ Discover how I used Claude Code, Anthropic’s AI coding assistant, to refactor 
 Step-by-step guide to adding Stripe to the Umbraco Commerce Demo Store (Umbraco 16, .NET 9) with screenshots, commands, and notes on webhooks and going live.
 
 
-Last updated: 2026-06-05
+Last updated: 2026-06-06
