@@ -18,6 +18,10 @@ You can see many blog posts about Kentico over at my [blog website](https://www.
 
 ## Latest Blog Posts
 
+**[Kentico's Management MCP server: AI that builds inside your CMS, and keeps every change reviewable](https://www.goldfinch.me/blog/kentico-management-mcp-server-ai-that-builds-inside-your-cms)**  
+How I built four brand sites through Xperience by Kentico's Management MCP server — and why reviewability, not speed, is what really matters.
+
+
 **[How AI Changed the Shape of Delivery on a Real Kentico Project](https://www.goldfinch.me/blog/how-ai-changed-the-shape-of-delivery-on-a-real-kentico-project)**  
 A real‑world case study exploring how AI‑assisted workflows changed decision‑making, reduced uncertainty, and accelerated delivery during an Xperience by Kentico rebuild.
 
@@ -34,8 +38,4 @@ How a Markdown spec and AI tools like ChatGPT and Claude Code helped me build a 
 Discover how I used Claude Code, Anthropic’s AI coding assistant, to refactor and redesign the UI of my Kentico Sustainability module - replacing third-party components with native ones and creating a cleaner, more integrated experience.
 
 
-**[Taking Stripe Payments in Umbraco Commerce](https://www.goldfinch.me/blog/taking-stripe-payments-in-umbraco-commerce)**  
-Step-by-step guide to adding Stripe to the Umbraco Commerce Demo Store (Umbraco 16, .NET 9) with screenshots, commands, and notes on webhooks and going live.
-
-
-Last updated: 2026-07-16
+Last updated: 2026-07-17
