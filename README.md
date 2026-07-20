@@ -38,4 +38,4 @@ How a Markdown spec and AI tools like ChatGPT and Claude Code helped me build a 
 Discover how I used Claude Code, Anthropic’s AI coding assistant, to refactor and redesign the UI of my Kentico Sustainability module - replacing third-party components with native ones and creating a cleaner, more integrated experience.
 
 
-Last updated: 2026-07-19
+Last updated: 2026-07-20
