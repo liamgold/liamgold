@@ -18,6 +18,10 @@ You can see many blog posts about Kentico over at my [blog website](https://www.
 
 ## Latest Blog Posts
 
+**[Right-sizing RAG: AI answers on my Kentico site, no vector database](https://www.goldfinch.me/blog/right-sizing-rag-ai-answers-on-my-kentico-site)**  
+You probably don't need a vector database for AI Q&A on a small site - here's the right-sized RAG behind my Kentico "Ask" button.
+
+
 **[Kentico's Management MCP server: AI that builds inside your CMS, and keeps every change reviewable](https://www.goldfinch.me/blog/kentico-management-mcp-server-ai-that-builds-inside-your-cms)**  
 How I built four brand sites through Xperience by Kentico's Management MCP server — and why reviewability, not speed, is what really matters.
 
@@ -34,8 +38,4 @@ A practical experiment in using Claude Design to infer a design system from an e
 How a Markdown spec and AI tools like ChatGPT and Claude Code helped me build a Stripe payment provider for Xperience by Kentico - faster, cleaner, and spec-driven from the start.
 
 
-**[How I Used Claude Code to Redesign My Kentico Sustainability Module](https://www.goldfinch.me/blog/how-i-used-claude-code-to-redesign-my-kentico-sustainability-module)**  
-Discover how I used Claude Code, Anthropic’s AI coding assistant, to refactor and redesign the UI of my Kentico Sustainability module - replacing third-party components with native ones and creating a cleaner, more integrated experience.
-
-
-Last updated: 2026-08-03
+Last updated: 2026-08-04
