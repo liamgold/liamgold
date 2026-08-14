@@ -38,4 +38,4 @@ A practical experiment in using Claude Design to infer a design system from an e
 How a Markdown spec and AI tools like ChatGPT and Claude Code helped me build a Stripe payment provider for Xperience by Kentico - faster, cleaner, and spec-driven from the start.
 
 
-Last updated: 2026-08-13
+Last updated: 2026-08-14
