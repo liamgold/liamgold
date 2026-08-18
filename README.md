@@ -18,6 +18,10 @@ You can see many blog posts about Kentico over at my [blog website](https://www.
 
 ## Latest Blog Posts
 
+**[Umbraco Automate: Developer Automation or Marketing Automation?](https://www.goldfinch.me/blog/umbraco-automate-developer-automation-or-marketing-automation)**  
+Umbraco Automate is pitched at marketing teams, but it's developer tooling, and that's fine. What would have to change, from someone who's watched Kentico do it.
+
+
 **[Right-sizing RAG: AI answers on my Kentico site, no vector database](https://www.goldfinch.me/blog/right-sizing-rag-ai-answers-on-my-kentico-site)**  
 You probably don't need a vector database for AI Q&A on a small site - here's the right-sized RAG behind my Kentico "Ask" button.
 
@@ -34,8 +38,4 @@ A real‑world case study exploring how AI‑assisted workflows changed decision
 A practical experiment in using Claude Design to infer a design system from an existing site, explore a redesign within real constraints, and move straight into implementation without the usual design handoff.
 
 
-**[From Spec to Stripe: Building a Payment Provider for Xperience by Kentico](https://www.goldfinch.me/blog/from-spec-to-stripe-building-a-payment-provider-for-xperience-by-kentico)**  
-How a Markdown spec and AI tools like ChatGPT and Claude Code helped me build a Stripe payment provider for Xperience by Kentico - faster, cleaner, and spec-driven from the start.
-
-
-Last updated: 2026-08-17
+Last updated: 2026-08-18
