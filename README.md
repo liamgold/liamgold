@@ -38,4 +38,4 @@ A real‑world case study exploring how AI‑assisted workflows changed decision
 A practical experiment in using Claude Design to infer a design system from an existing site, explore a redesign within real constraints, and move straight into implementation without the usual design handoff.
 
 
-Last updated: 2026-08-20
+Last updated: 2026-08-21
