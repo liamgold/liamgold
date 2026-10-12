@@ -18,6 +18,10 @@ You can see many blog posts about Kentico over at my [blog website](https://www.
 
 ## Latest Blog Posts
 
+**[How Extensible Are Commerce Discounts in Xperience by Kentico?](https://www.goldfinch.me/blog/how-extensible-are-commerce-discounts-in-xperience-by-kentico)**  
+You don't have to wait for Kentico's October refresh: I built Buy X, Get Y with free gifts on Xperience by Kentico today, using custom promotion rules.
+
+
 **[Umbraco Automate: Developer Automation or Marketing Automation?](https://www.goldfinch.me/blog/umbraco-automate-developer-automation-or-marketing-automation)**  
 Umbraco Automate is pitched at marketing teams, but it's developer tooling, and that's fine. What would have to change, from someone who's watched Kentico do it.
 
@@ -34,8 +38,4 @@ How I built four brand sites through Xperience by Kentico's Management MCP serve
 A real‑world case study exploring how AI‑assisted workflows changed decision‑making, reduced uncertainty, and accelerated delivery during an Xperience by Kentico rebuild.
 
 
-**[From design system to deployed code: a weekend with Claude Design](https://www.goldfinch.me/blog/from-design-system-to-deployed-code-a-weekend-with-claude-design)**  
-A practical experiment in using Claude Design to infer a design system from an existing site, explore a redesign within real constraints, and move straight into implementation without the usual design handoff.
-
-
-Last updated: 2026-10-11
+Last updated: 2026-10-12
