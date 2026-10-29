@@ -38,4 +38,4 @@ How I built four brand sites through Xperience by Kentico's Management MCP serve
 A real‑world case study exploring how AI‑assisted workflows changed decision‑making, reduced uncertainty, and accelerated delivery during an Xperience by Kentico rebuild.
 
 
-Last updated: 2026-10-28
+Last updated: 2026-10-29
